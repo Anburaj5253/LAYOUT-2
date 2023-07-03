@@ -1,0 +1,233 @@
+*
+{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+}
+.container
+{
+	width:90%;
+    margin:0 auto;
+}
+.row
+{
+	display:flex;
+	flex-wrap:wrap;
+}
+.col-1
+{
+	width:8.33%;
+	padding:0 15px;
+}
+.col-2
+{
+	width:16.66%;
+	padding:0 15px;
+}
+.col-3
+{
+	width:25%;
+	padding:0 15px;
+}
+.col-4
+{
+	width:33.33%;
+	padding:0 15px;
+}
+.col-5
+{
+	width:41.66%;
+	padding:0 15px;
+}
+.col-6
+{
+	width:50%;
+	padding:0 15px;
+}
+.col-7
+{
+	width:58%;
+	padding:0 15px;
+}
+.col-8
+{
+	width:66.66%;
+	padding:0 15px;
+}
+.col-9
+{
+	width:75%;
+	padding:0 15px;
+}
+.col-10
+{
+	width:83.33%;
+	padding:0 15px;
+}
+.col-11
+{
+	width:91.66%;
+	padding:0 15px;
+}
+.col-12
+{
+	width:100%;
+	padding:0 15px;
+}
+#header
+{
+	background-color:darkblue;
+	padding:25px 0;
+}
+.baker,.navbar
+{
+	background-color:white;
+	height:50px;
+}
+#banner
+{
+	background-color:white;
+	padding:25px 0;
+}
+.bg-img
+{
+	background-color:darkblue;
+	height:500px;
+}
+#client
+{
+	background-color:darkblue;
+	padding:25px 0;
+}
+.c-name
+{
+	background-color:white;
+	height:50px;
+}
+#about
+{ 
+  background-color:white;
+  padding:25px 0;
+}
+.about-1
+{
+	background-color:darkblue;
+	height:300px;
+}
+#count
+{
+	background-color:darkblue;
+	padding:25px 0;
+}
+.number
+{
+	background-color:white;
+	height:100px;
+}
+#service
+{
+	background-color:white;
+	padding:25px 0;
+}
+.icon
+{
+	background-color:darkblue;
+	height:350px;
+	margin-top:25px;
+}
+#call
+{
+	background-color:darkblue;
+	padding:25px 0;
+}
+.action
+{
+	background-color:white;
+	height:200px;
+}
+#text
+{
+	background-color:white;
+	padding:25px 0;
+}
+.text-img
+{
+	background-color:darkblue;
+	height:350px;
+}
+#portpolio
+{
+	background-color:darkblue;
+	padding:25px 0;
+}
+.port-img
+{
+	background-color:white;
+	height:200px;
+	margin-top:25px;
+}
+#team
+{
+	background-color:white;
+	padding:25px 0;
+}
+.team-img
+{
+	background-color:darkblue;
+	height:400px;
+}
+#pricing
+{
+	background-color:darkblue;
+	padding:25px 0;
+}
+.amount
+{
+	background-color:white;
+	height:600px;
+}
+#qus
+{
+	background-color:white;
+	padding:25px 0;
+}
+.ans
+{
+	background-color:darkblue;
+	height:500px;
+}
+#contact
+{
+	background-color:darkblue;
+	padding:25px 0;
+}
+.address
+{
+	background-color:white;
+	height:500px;
+}
+#links
+{
+	background-color:white;
+	padding:25px 0;
+}
+.bio
+{
+	background-color:darkblue;
+	height:300px;
+}
+#footer
+{
+	background-color:darkblue;
+	padding:25px 0;
+}
+.icons
+{
+	background-color:white;
+	height:100px;
+}
+.copyright
+{
+	background-color:white;
+	height:100px;
+}
